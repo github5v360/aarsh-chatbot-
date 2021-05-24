@@ -1,4 +1,5 @@
 # aarsh-chatbot-
+The entire project is in the master branch
 This is the basic working and functioning of the chatbot using dialogflow essentials and the flutter 
 download all the files and then open using the android studio
 also add a credentials.json file in the assets folder
